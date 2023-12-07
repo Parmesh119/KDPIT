@@ -234,7 +234,11 @@ button:hover {
   top: 50%;
   /* transform: translateY(-50%); */
   z-index: 10;
+<<<<<<< HEAD
   background: url("../../assets/images/less-arrow.png") no-repeat center center /
+=======
+  background: url("../images/less-arrow.png") no-repeat center center /
+>>>>>>> second_branch
     16px;
   width: 32px;
   height: 32px;
@@ -244,7 +248,11 @@ button:hover {
 
 .previousButton:hover,
 .nextButton:hover {
+<<<<<<< HEAD
   background: url("../../assets/images/less-arrow.png") no-repeat center center /
+=======
+  background: url("../images/less-arrow.png") no-repeat center center /
+>>>>>>> second_branch
     16px;
 }
 

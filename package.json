@@ -2,7 +2,10 @@
   "name": "charusatv3",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://learnwithparth.github.io/charusatv3",
+=======
+>>>>>>> second_branch
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
@@ -15,7 +18,13 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
+<<<<<<< HEAD
     "chart.js": "^4.4.0",
+=======
+    "bootstrap-icons": "^1.11.2",
+    "chart.js": "^4.4.0",
+    "lib": "^5.1.0",
+>>>>>>> second_branch
     "mdbreact": "^5.2.0",
     "next": "^13.0.5",
     "react": "^18.1.0",
@@ -28,11 +37,19 @@
     "react-helmet": "^6.1.0",
     "react-iframe": "^1.8.5",
     "react-router-dom": "^6.3.0",
+<<<<<<< HEAD
     "react-scripts": "5.0.1",
+=======
+    "react-scripts": "^5.0.1",
+>>>>>>> second_branch
     "react-scroll": "^1.8.9",
     "react-slick": "^0.29.0",
     "rsuite": "^5.23.0",
     "slick-carousel": "^1.8.1",
+<<<<<<< HEAD
+=======
+    "stringify": "^5.2.0",
+>>>>>>> second_branch
     "swiper": "^8.4.7",
     "web-vitals": "^2.1.4"
   },
@@ -43,7 +60,11 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+<<<<<<< HEAD
     "build:tailwind" : "tailwindcss build src/App.css -o public"
+=======
+    "build:tailwind": "tailwindcss build src/App.css -o public"
+>>>>>>> second_branch
   },
   "eslintConfig": {
     "extends": [
